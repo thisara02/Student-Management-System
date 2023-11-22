@@ -1,0 +1,13 @@
+D:\Esoft\Final Project\bin\Debug\Final Project.exe.config
+D:\Esoft\Final Project\bin\Debug\Final Project.exe
+D:\Esoft\Final Project\bin\Debug\Final Project.pdb
+D:\Esoft\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+D:\Esoft\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+D:\Esoft\Final Project\obj\Debug\Final_Project.FrmLogin.resources
+D:\Esoft\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Esoft\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\Esoft\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\Esoft\Final Project\obj\Debug\Final Project.exe
+D:\Esoft\Final Project\obj\Debug\Final Project.pdb
+D:\Esoft\Final Project\obj\Debug\Final_Project.frmloading.resources
+D:\Esoft\Final Project\obj\Debug\Final_Project.frmRegister.resources
